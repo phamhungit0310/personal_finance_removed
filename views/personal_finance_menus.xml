@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <!-- Top menu item -->
+    <menuitem
+        id="menu_personal_finance_root"
+        name="Personal Finance"
+        sequence="50"/>
+
+    <menuitem id="menu_personal_finance_reporting"
+        name="Reporting"
+        parent="menu_personal_finance_root"
+        sequence="99"/>
+
+    <menuitem id="menu_personal_finance_configuration"
+        name="Configuration"
+        parent="menu_personal_finance_root"
+        sequence="100"/>
+
+</odoo>

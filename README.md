@@ -3,7 +3,7 @@ Personal Finance
 
 ### Set up your income, outcome money and review reporting everyday.
 
-![](money_flow.png)
+![](static/description/money_flow.png)
 
 Keep an eye on your income or outcome money
 -------------------------------------------
@@ -14,14 +14,14 @@ Negative Amount -> Outcome Amount (spending amount)
 
 Positive Amount -> Income Amount
 
-![](money_flow_detail.png)
+![](static/description/money_flow_detail.png)
 
-![](money_flow_detail2.png)
+![](static/description/money_flow_detail2.png)
 
 Create so easily a money flow
 -----------------------------
 
-![](money_flow_detail.png)
+![](static/description/money_flow_detail.png)
 
 You just enter:  
 \- Name  
@@ -37,13 +37,13 @@ Review and Analysis your money flow
 
 Support report types: pivot, graph and list
 
-![](money_flow_reporting_pivot.png)
+![](static/description/money_flow_reporting_pivot.png)
 
-![](money_flow_reporting_graph.png)
+![](static/description/money_flow_reporting_graph.png)
 
-![](money_flow_reporting_graph2.png)
+![](static/description/money_flow_reporting_graph2.png)
 
-![](money_flow_reporting_tree.png)
+![](static/description/money_flow_reporting_tree.png)
 
 Contact / Support
 -----------------
